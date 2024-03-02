@@ -24,7 +24,7 @@ int mAttack(int enemy, string pokename, int attack, int defense, int health, int
         printf("[1] Thunderbolt\n");
         printf("[2] Agility\n");
         printf("[3] Quick attack\n");
-        printf("Pick an attack: ");
+        printf("Pick an attacks: ");
         scanf("%d", )
     }
 
